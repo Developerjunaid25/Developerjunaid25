@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Junaid Bangali</h1>
+<a href="https://ibb.co.com/LGzDQ9D"><img src="https://i.ibb.co.com/dh0sbks/Whats-App-Image-2026-10-26-at-11-36-15-AM.jpg" alt="Web designer WordPress Developer portfolio" border="0"></a>
 <h3 align="center">Professional Web Designer, Developer & WordPress Expert | Helping Businesses and Creators Build Stunning, Functional Websites.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developerjunaid25&label=Profile%20views&color=0e75b6&style=flat" alt="developerjunaid25" /> </p>
