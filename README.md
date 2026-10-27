@@ -1,4 +1,4 @@
-<a href="https://ibb.co.com/1f6V5kFw"><img src="https://i.ibb.co.com/zhJcYzq0/jbangali.jpg" alt="Web designer WordPress Developer Portfolio" border="0"></a>
+<a href="https://ibb.co.com/7dCpGWKC"><img src="https://i.ibb.co.com/sdR1FwqR/junaid-1.jpg" alt="Web designer WordPress Developer Portfolio" border="0"></a>
 <h3 align="center">Professional Web Designer, Developer & WordPress Expert | Helping Businesses and Creators Build Stunning, Functional Websites.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developerjunaid25&label=Profile%20views&color=0e75b6&style=flat" alt="developerjunaid25" /> </p>
@@ -33,5 +33,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developerjunaid25&show_icons=true&locale=en" alt="developerjunaid25" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developerjunaid25&" alt="developerjunaid25" /></p>
+
 
 
